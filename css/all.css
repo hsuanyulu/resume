@@ -1,0 +1,249 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after {
+  content: '';
+  content: none;
+}
+
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0px auto;
+}
+
+body {
+  font-family: 'Noto Sans TC';
+}
+
+.ff-robot {
+  font-family: 'Roboto';
+}
+
+.ff-noteSans {
+  font-family: 'Noto Sans TC';
+}
+
+.fs-1 {
+  font-size: 20px;
+}
+
+.fs-2 {
+  font-size: 24px;
+}
+
+.fs-3 {
+  font-size: 32px;
+}
+
+.fs-4 {
+  font-size: 80px;
+}
+
+.fw-1 {
+  font-weight: 300;
+}
+
+.fw-2 {
+  font-weight: 400;
+}
+
+.fw-3 {
+  font-weight: 500;
+}
+
+.lh-1 {
+  line-height: 32px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.td-none {
+  text-decoration: none;
+}
+
+.text-red {
+  color: #A00404;
+}
+
+.text-white {
+  color: #FFFFFF;
+}
+
+.bg-blue {
+  background: #415165;
+}
+
+.bs-1 {
+  border-left: 1px solid black;
+}
+
+.bs-white {
+  border-left: 1px solid #ffffff;
+}
+
+.bs-gray {
+  border-left: 1px solid #96A9C4;
+}
+
+.bb-1 {
+  border-bottom: 1px solid black;
+}
+
+.bb-2 {
+  border-bottom: 2px solid black;
+}
+
+.bb-white {
+  border-bottom: 1px solid #ffffff;
+}
+
+.ps-1 {
+  padding-left: 24px;
+}
+
+.pt-1 {
+  padding-top: 24px;
+}
+
+.pb-1 {
+  padding-bottom: 8px;
+}
+
+.pb-2 {
+  padding-bottom: 24px;
+}
+
+.mx-auto {
+  margin: 0px auto;
+}
+
+.my-1 {
+  margin: 48px 0px;
+}
+
+.my-2 {
+  margin: 8px auto;
+}
+
+.mt-1 {
+  margin-top: 24px;
+}
+
+.ms-1 {
+  margin-left: 24px;
+}
+
+.ms-2 {
+  margin-left: 8px;
+}
+
+.mt-2 {
+  margin-top: 37px;
+}
+
+.mt-3 {
+  margin-top: 16px;
+}
+
+.mt-4 {
+  margin-top: 72px;
+}
+
+.mt-5 {
+  margin-top: 32px;
+}
+
+.mb-1 {
+  margin-bottom: 16px;
+}
+
+.mb-2 {
+  margin-bottom: 24px;
+}
+
+.mb-3 {
+  margin-bottom: 72px;
+}
+
+.mb-4 {
+  margin-bottom: 36px;
+}
+
+.ms-1 {
+  margin-left: 16px;
+}
+
+.ms-2 {
+  margin-left: 24px;
+}
+
+.d-f {
+  display: flex;
+}
+
+.d-b {
+  display: block;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.w-1 {
+  width: 324px;
+}
+
+.w-2 {
+  width: 90px;
+}
+
+.w-3 {
+  width: 667px;
+}
+
+.h-1 {
+  height: 324px;
+}
+
+.h-2 {
+  height: 90px;
+}
+/*# sourceMappingURL=all.css.map */

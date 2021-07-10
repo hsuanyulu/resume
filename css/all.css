@@ -183,14 +183,6 @@ body {
   margin-top: 24px;
 }
 
-.ms-1 {
-  margin-left: 24px;
-}
-
-.ms-2 {
-  margin-left: 8px;
-}
-
 .mt-2 {
   margin-top: 37px;
 }
@@ -259,11 +251,30 @@ body {
   width: 667px;
 }
 
+.w-4 {
+  width: 996px;
+}
+
 .h-1 {
   height: 324px;
 }
 
 .h-2 {
   height: 90px;
+}
+
+.text-blue-hover:hover {
+  color: #415165;
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.text-white-hover:hover {
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+
+.text-hover:hover {
+  border-bottom: 1px solid #415165;
 }
 /*# sourceMappingURL=all.css.map */

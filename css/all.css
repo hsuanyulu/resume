@@ -44,15 +44,15 @@ table {
 }
 
 body {
-  font-family: 'Noto Sans TC';
+  font-family: "Noto Sans TC", sans-serif;
 }
 
 .ff-robot {
-  font-family: 'Roboto';
+  font-family: "Roboto", sans-serif;
 }
 
 .ff-noteSans {
-  font-family: 'Noto Sans TC';
+  font-family: "Noto Sans TC", sans-serif;
 }
 
 .fs-1 {
